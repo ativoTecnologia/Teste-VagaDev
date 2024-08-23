@@ -3,6 +3,7 @@
 # Descrição do Teste
 Este teste prático é para avaliar suas habilidades de desenvolvimento em um ambiente que utiliza o Whaticket. Você precisará clonar um repositório, configurar o ambiente de desenvolvimento, desenvolver uma nova funcionalidade, e integrar uma API externa.
 
+Nos adcione ao seu repositorio: ativoTecnologia
 # Instruções Gerais
 ## Clonar o Repositório:
 
