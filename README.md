@@ -4,6 +4,8 @@
 Este teste prático é para avaliar suas habilidades de desenvolvimento em um ambiente que utiliza o Whaticket. Você precisará clonar um repositório, configurar o ambiente de desenvolvimento, desenvolver uma nova funcionalidade, e integrar uma API externa.
 
 Nos adcione ao seu repositorio: ativoTecnologia
+Link do whaticket: https://github.com/canove/whaticket-community
+
 # Instruções Gerais
 ## Clonar o Repositório:
 
